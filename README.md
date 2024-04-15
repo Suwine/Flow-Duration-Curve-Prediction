@@ -1,4 +1,4 @@
-# Flow-Duration-Curve-Prediction-
+# Flow Duration Curve Prediction
 **author**: Tian Lan, Jiajia Zhang
 
 ## Datasets: 
